@@ -15,8 +15,18 @@ This research project explores autonomous robotic replication concepts through t
 - Built robotic arm prototype
 - Conducted experimental validation
 
+  ## Research Outcomes
+- Designed robotic arm architecture
+- Developed microcontroller control logic
+- Published research paper
+- Demonstrated robotic arm movement prototype
+
 ## Skills Demonstrated
 - Robotics
 - Embedded Systems
 - Control Systems
 - Research and Development
+
+ ## Author
+Bhavitha Enuganti
+  
